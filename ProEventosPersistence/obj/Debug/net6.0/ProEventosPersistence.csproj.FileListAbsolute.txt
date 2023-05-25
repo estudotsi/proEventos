@@ -1,0 +1,17 @@
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\bin\Debug\net6.0\ProEventosPersistence.deps.json
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\bin\Debug\net6.0\ProEventosPersistence.runtimeconfig.json
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\bin\Debug\net6.0\ProEventosPersistence.dll
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\bin\Debug\net6.0\ProEventosPersistence.pdb
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\bin\Debug\net6.0\ProEventosDomain.dll
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\bin\Debug\net6.0\ProEventosDomain.pdb
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.csproj.AssemblyReference.cache
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.AssemblyInfoInputs.cache
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.AssemblyInfo.cs
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.csproj.CopyComplete
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.dll
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\refint\ProEventosPersistence.dll
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.pdb
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ProEventosPersistence.genruntimeconfig.cache
+C:\Users\rogerio.campos\source\repos\ProEventosAPI\ProEventosPersistence\obj\Debug\net6.0\ref\ProEventosPersistence.dll
