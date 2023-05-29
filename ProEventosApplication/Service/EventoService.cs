@@ -85,27 +85,52 @@ namespace ProEventosApplication.Service
             }
         }
 
-        public async Task<Evento> GetAllEventoByIdAsync(int eventoId, bool includePalestrantes = false)
-        {
-          
-        }
-
-        public async Task<Evento[]> GetAllEventosAsync(bool includePalestrantes = false)
-        {
-            try
+		public async Task<Evento[]> GetAllEventosAsync(bool includePalestrantes = false)
+		{
+			try
             {
-                var events = await _eventoPersist.GetAllEventoByIdAsync(includePalestrantes);
+                var eventos = await _eventoPersist.GetAllEventosAsync(includePalestrantes);
+                if (eventos == null)
+                    return null;
+
+                return eventos;
             }
-            catch (Exception ex)
+            catch (Exception ex) 
             {
+                throw new Exception(ex.Message );
             }
-        }
+		}
 
-        public Task<Evento[]> GetAllEventosByTemaAsync(string tema, bool includePalestrantes = false)
-        {
-            throw new NotImplementedException();
-        }
+		public async Task<Evento[]> GetAllEventosByTemaAsync(string tema, bool includePalestrantes = false)
+		{
+			try
+			{
+				var eventos = await _eventoPersist.GetAllEventosByTemaAsync(tema, includePalestrantes);
+				if (eventos == null)
+					return null;
 
-       
-    }
+				return eventos;
+			}
+			catch (Exception ex)
+			{
+				throw new Exception(ex.Message);
+			}
+		}
+
+		public async Task<Evento> GetAllEventoByIdAsync(int eventoId, bool includePalestrantes = false)
+		{
+			try
+			{
+                var eventos = await _eventoPersist.GetAllEventoByIdAsync(eventoId,includePalestrantes);
+				if (eventos == null)
+					return null;
+
+				return eventos;
+			}
+			catch (Exception ex)
+			{
+				throw new Exception(ex.Message);
+			}
+		}
+	}
 }
