@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ProEventosPersistence;
+using ProEventosPersistence.Contextos;
 
 var builder = WebApplication.CreateBuilder(args);
 
