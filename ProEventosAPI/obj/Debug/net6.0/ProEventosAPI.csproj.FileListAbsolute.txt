@@ -94,3 +94,7 @@ C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\refint\ProE
 C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\ProEventosAPI.pdb
 C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\ProEventosAPI.genruntimeconfig.cache
 C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\ref\ProEventosAPI.dll
+C:\Users\Casa\source\repos\proEventos\ProEventosAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Casa\source\repos\proEventos\ProEventosAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Casa\source\repos\proEventos\ProEventosAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Casa\source\repos\proEventos\ProEventosAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
