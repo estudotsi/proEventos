@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj": {}
+    "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj": {
+    "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj",
+        "projectUniqueName": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj",
         "projectName": "ProEventosApplication",
-        "projectPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj",
-        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosApplication\\obj\\",
+        "projectPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosApplication\\ProEventosApplication.csproj",
+        "packagesPath": "C:\\Users\\rogerio.campos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rogerio.campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj": {
-                "projectPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj"
+              "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj": {
+                "projectPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj"
               },
-              "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj": {
-                "projectPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj"
+              "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj": {
+                "projectPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj"
               }
             }
           }
@@ -67,24 +68,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj": {
+    "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj",
+        "projectUniqueName": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj",
         "projectName": "ProEventosDomain",
-        "projectPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj",
-        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\obj\\",
+        "projectPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj",
+        "packagesPath": "C:\\Users\\rogerio.campos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rogerio.campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,24 +129,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj": {
+    "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj",
+        "projectUniqueName": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj",
         "projectName": "ProEventosPersistence",
-        "projectPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj",
-        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosPersistence\\obj\\",
+        "projectPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosPersistence\\ProEventosPersistence.csproj",
+        "packagesPath": "C:\\Users\\rogerio.campos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosPersistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rogerio.campos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -160,8 +163,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj": {
-                "projectPath": "C:\\Users\\Casa\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj"
+              "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj": {
+                "projectPath": "C:\\Users\\rogerio.campos\\source\\repos\\proEventos\\ProEventosDomain\\ProEventosDomain.csproj"
               }
             }
           }
@@ -213,7 +216,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
