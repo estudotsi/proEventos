@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using ProEventosApplication.Contratos;
-using ProEventosDomain;
+using ProEventosApplication.Dtos;
 
 namespace ProEventosAPI.Controllers
 {
@@ -68,7 +68,7 @@ namespace ProEventosAPI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post(Evento model)
+        public async Task<IActionResult> Post(EventoDto model)
         {
             try
             {
@@ -85,7 +85,7 @@ namespace ProEventosAPI.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, Evento model)
+        public async Task<IActionResult> Put(int id, EventoDto model)
         {
             try
             {

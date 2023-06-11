@@ -1,22 +1,18 @@
-﻿using ProEventosDomain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using ProEventosApplication.Dtos;
 using System.Threading.Tasks;
 
 namespace ProEventosApplication.Contratos
 {
     public interface IEventoService
     {
-        Task<Evento> AddEventos(Evento model);
-        Task<Evento> UpdateEvento(int eventoId, Evento model);
+        Task<EventoDto> AddEventos(EventoDto model);
+        Task<EventoDto> UpdateEvento(int eventoId, EventoDto model);
         Task<bool> DeleteEvento(int eventoId);
 
-        Task<Evento[]> GetAllEventosAsync(bool includePalestrantes = false);
+        Task<EventoDto[]> GetAllEventosAsync(bool includePalestrantes = false);
 
-        Task<Evento[]> GetAllEventosByTemaAsync(string tema, bool includePalestrantes = false);
+        Task<EventoDto[]> GetAllEventosByTemaAsync(string tema, bool includePalestrantes = false);
         
-        Task<Evento> GetAllEventoByIdAsync(int eventoId, bool includePalestrantes = false);
+        Task<EventoDto> GetAllEventoByIdAsync(int eventoId, bool includePalestrantes = false);
     }
 }
