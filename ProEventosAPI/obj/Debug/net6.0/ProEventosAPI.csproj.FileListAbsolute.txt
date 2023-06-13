@@ -152,3 +152,5 @@ C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\refint\ProE
 C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\ProEventosAPI.pdb
 C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\ProEventosAPI.genruntimeconfig.cache
 C:\Users\Casa\source\repos\proEventos\ProEventosAPI\obj\Debug\net6.0\ref\ProEventosAPI.dll
+C:\Users\rogerio.campos\source\repos\proEventos\ProEventosAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rogerio.campos\source\repos\proEventos\ProEventosAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
