@@ -4,7 +4,6 @@ using ProEventosApplication.Service;
 using ProEventosPersistence.Contextos;
 using ProEventosPersistence.Contratos;
 using ProEventosPersistence.Persist;
-using System.Xml.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
